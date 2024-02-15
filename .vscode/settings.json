@@ -1,0 +1,21 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#0F3508",
+        "titleBar.activeBackground": "#164A0B",
+        "titleBar.activeForeground": "#F2FDF0"
+    },
+    "files.associations": {
+        "functional": "cpp",
+        "cstddef": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "vector": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled",
+    "cmake.configureOnOpen": false
+}
